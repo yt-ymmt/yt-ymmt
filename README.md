@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/yutkat/yt-ymmt/">
+  <a href="https://github.com/yt-ymmt/">
     <img src="https://komarev.com/ghpvc/?username=yt-ymmt" alt="yt-ymmt" />
   </a>
   <a href="http://twitter.com/YtYmmt">
