@@ -15,6 +15,3 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>
 </p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yt-ymmt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yt-ymmt&count_private=true&theme=radical)
